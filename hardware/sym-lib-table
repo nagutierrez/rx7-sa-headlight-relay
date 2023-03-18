@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Heartfelt_Engineering_RX7_headlight_relay")(type "KiCad")(uri "${KIPRJMOD}/symbols/Heartfelt_Engineering_rx7_headlight_relay.kicad_sym")(options "")(descr ""))
+)

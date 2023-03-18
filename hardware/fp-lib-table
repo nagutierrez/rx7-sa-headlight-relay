@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Heartfelt_Engineering_RX7_headlight_relay")(type "KiCad")(uri "${KIPRJMOD}/footprints/Heartelft_Engineering_rx7_headlight_relay.pretty")(options "")(descr ""))
+)
